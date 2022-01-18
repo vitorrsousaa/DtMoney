@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# dt money
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4 align="center"> 
+	🚧  dt Money 🚀 Concluído ... 🚧
+</h4>
 
-## Available Scripts
+## Tópicos
 
-In the project directory, you can run:
+[Sobre o dt money](#sobre-o-dt-money)
 
-### `npm start`
+[Tecnologias](#tecnologias)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[Features](#features)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+[Instalação e uso](#instalação-e-uso)
 
-### `npm test`
+[Licença](#licença)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 💻 Sobre o dt Money
+- Este projeto faz arte do Ignite da Rocketseat;
+- O dt Money é uma alternativa simples e eficaz para gerencias suas finanças;
+- A aplicação permite o cadastro de entradas, saídas e organização das mesmas em categorias;
 
-### `npm run build`
+## 🚀 Tecnologias
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled Components](https://styled-components.com/)
+- [MirageJS](https://miragejs.com/)
+- [Axios](https://github.com/axios/axios)
+- [React Modal](https://reactcommunity.org/react-modal/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ⚙️ Features
 
-### `npm run eject`
+- [x] Estrutura da aplicação
+- [x] Componentização
+- [x] Consumindo API
+- [x] Modal & Forms
+- [X] Contextos e hooks
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🗂 Instalação e uso
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+# Abra um terminal e copie este repositório com o comando
+git clone https://github.com/vitorrsousaa/DtMoney.git
+# ou use a opção de download.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Entre na pasta web com 
+cd dtmoney
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Instale as dependências
+yarn install
 
-## Learn More
+# Rode a aplicação
+yarn start
+```
+## Autor
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/94024958?v=4" width="100px;" alt=""/>
+ <b>Vitor Sousa</b>🚀
+<br />
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Feito com ❤️ por Vitor Sousa 👋🏻 Entre em contato!
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![Linkedin Badge](https://img.shields.io/badge/-Vitor%20Sousa-ff512f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorr-sousaa//)](https://www.linkedin.com/in/vitorr-sousaa//)
+[![Gmail Badge](https://img.shields.io/badge/-v.sousa.cf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.sousa.cf@gmail.com)](mailto:v.sousa.cf@gmail.com)
