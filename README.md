@@ -60,7 +60,7 @@ yarn start
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE.md).
+Este projeto esta sobe a licença [MIT](./LICENSE).
 ## 🧑🏻 Autor
 
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/94024958?v=4" width="100px;" alt=""/>
