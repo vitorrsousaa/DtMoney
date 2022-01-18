@@ -62,7 +62,7 @@ yarn start
  <b>Vitor Sousa</b>🚀
 <br />
 
-Feito com ❤️ por Vitor Sousa 👋🏻 Entre em contato!
+Feito por Vitor Sousa 👋🏻🧑🏻 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vitor%20Sousa-ff512f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitorr-sousaa//)](https://www.linkedin.com/in/vitorr-sousaa//)
 [![Gmail Badge](https://img.shields.io/badge/-v.sousa.cf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.sousa.cf@gmail.com)](mailto:v.sousa.cf@gmail.com)
